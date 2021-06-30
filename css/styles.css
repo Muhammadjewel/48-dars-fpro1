@@ -56,6 +56,26 @@ img {
 }
 
 
+/* PICTURE DEMO */
+.birnima-rasm {
+  border-radius: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+  .birnima-rasm {
+    width: 281px;
+    height: 470px;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .birnima-rasm {
+    width: 445px;
+    height: 520px;
+  }
+}
+
+
 /* WORK-PROCESS */
 .work-process {
   text-align: center;
